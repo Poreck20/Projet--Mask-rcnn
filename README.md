@@ -1,8 +1,8 @@
 # Projet de Détection d'Objets avec Mask R-CNN
 
 ## Auteurs
-- **Jean-Baptiste CHEZE -M1 MASERATI**
-- **Alpha DIALLO -M1 MASERATI**
+-  **Alpha DIALLO -M1 MASERATI & GPIA**
+- **Jean-Baptiste CHEZE -M1 MASERATI & GPIA**
 
 ---
 
